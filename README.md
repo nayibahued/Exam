@@ -1,1 +1,3 @@
 # Exam
+
+This is an exam for a job application for the Data Scientist position where I applied various data analysis methods. In the Section A I applied pandas, numpy and 'normal' methods obtaining insights and the asked results. The most interesting part is on the sparktest folder, where I solved some querries where PySpark was a needed tool, this was a great challenge for me because it was something completely new, I had to even create a new Python envoirnment in my Jupyter Notebook to solve this section. Note: the csv files were excluded for storage reasons.
